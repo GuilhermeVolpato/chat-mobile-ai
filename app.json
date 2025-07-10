@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "front",
+    "slug": "front",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.guilherme2103.front"
+    }
+  }
+}
